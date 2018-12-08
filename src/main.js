@@ -3,7 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
-// import '@/style/index.less';
+import '@/style/index.less'
 import iView from '@/config/index'
 import axios from '@/config/http'
 import VueAxios from 'axios'
