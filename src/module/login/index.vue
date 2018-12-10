@@ -25,6 +25,6 @@ export default {
 .content {
   width: 400px;
   margin: 200px auto 0;
-  background: red;
+  background: #fff;
 }
 </style>
